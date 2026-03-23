@@ -23,6 +23,6 @@ I update this repository **daily** with new mini projects.
 
 🤝 Connect with Me
 
-* GitHub: (your profile link here)
+* GitHub: (https://github.com/Sukumarchary)
 
 ⭐ *If you like this repo, feel free to star it!*
